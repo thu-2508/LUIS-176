@@ -1,0 +1,6 @@
+{
+  "name": "Vững Nền Tiếng Anh 8",
+  "description": "Ứng dụng ôn tập giữa học kì I Tiếng Anh 8 (2026–2027) - GV Vũ Thị Mai Thu, THCS Sông Đà - PH Hữu Nghị. Học từng bước, vững kiến thức, tự tin làm bài.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
